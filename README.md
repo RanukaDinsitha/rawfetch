@@ -1,2 +1,3 @@
-# rawfetch
-Fetching files for updates, sites, &amp; apps!
+# RawFetch
+Fetching files for updates, sites, &amp; apps! &amp; Also everything else...
+
